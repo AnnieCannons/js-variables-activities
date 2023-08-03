@@ -38,15 +38,15 @@ b = c;
 
 // Log the values of a and b before and after the swap.
 
-console. log ("")
-
-
-
+a = colin
+b = catie 
+console. log ("colin"); // ("catie");
+console. log ("catie"); // 
 
 /************************ Exercise 4 - Working with Constants ************************/
 
 // Declare a constant variable named PI and set its value to 3.14159. 
-
+const = PI
 // Then, attempt to reassign a new value to PI. 
 
 // Observe the error in the console and write a comment here explaining why you can't reassign a constant.
