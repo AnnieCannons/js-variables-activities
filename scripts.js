@@ -23,10 +23,10 @@ let CostConversaion;
 let CostClick;
 let CTR; 
 let Actions; 
-let firstName
-let lastName
-let age
-let searchheresomething
+let firstName;
+let lastName;
+let age;
+let searchheresomething;
 
 
 
@@ -40,9 +40,9 @@ let searchheresomething
 // Declare three variables named firstName, lastName, and age. Assign your own values to each variable. 
 
 
-firstName = "Hailey"
-lastName = "Gerhard"
-age = "26"
+firstName = "Hailey";
+lastName = "Gerhard";
+age = 26;
 
 // Log the variables' values to the console.
 
@@ -69,6 +69,7 @@ a = 4;
 b = 3;
 
 console.log(" a + b + c");
+
 /************************ Exercise 4 - Working with Constants ************************/
 
 // Declare a constant variable named PI and set its value to 3.14159. 
