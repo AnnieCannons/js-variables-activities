@@ -62,17 +62,18 @@ console.log("age");
 
 // Log the values of a and b before and after the swap.
 
-
 let a = 3;
 let b = 4;
 
-console.log("a + b");
+console.log(a)
+console.log(b)
 
 let c = a;
 a = b;
 b = c;
 
-console.log(" a + b + c");
+console.log(a)
+console.log(b)
 
 /************************ Exercise 4 - Working with Constants ************************/
 
