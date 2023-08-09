@@ -1,6 +1,26 @@
 /************************ Exercise 1 - Identify Variables ************************/
 
 // Declare Variables Here
+let totalSales;
+let totalExpenses;
+let totalProfit;
+let adSpent;
+let employees;
+let apps;
+let upsell;
+let bundels;
+let abandanctCart;
+let ageGroup;
+let location;
+let name;
+let status;
+let spent;
+let return;
+let costConversion;
+let costClick;
+let ctr;
+let actions;
+
 
 
 
