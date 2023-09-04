@@ -46,6 +46,9 @@ console.log(A)
 
 // Declare a constant variable named PI and set its value to 3.14159. 
 
+const pi = 3.41159
+
 // Then, attempt to reassign a new value to PI. 
 
 // Observe the error in the console and write a comment here explaining why you can't reassign a constant.
+ 
