@@ -1,0 +1,11 @@
+Exercise 1
+Great jobs! And in response to your question on ages, this looks like it might be data that can be stored in an array.
+
+Exercise 2
+Your variable declarations looks good. Can you see what is happening in the console.logs? How would you update the code so that the console.logs display the values of the variables you created?
+
+Exercise 3
+Take another look at this exercise. You created the variable c. How would you use this to swap the values of a and b?
+
+Exercise 4
+Lines 65 and 66 look great. Take a look at line 64. How should this be refactored in order to create a variable called PI?
