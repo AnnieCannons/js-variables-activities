@@ -53,10 +53,10 @@ console.log(b)
 
 a = b;
 console.log(a);
-let temp = b;
+let temp = "apples";
 console.log(temp);
-b = "apples";
-console.log(b);
+a = temp
+console.log(a);
 // Log the values of a and b before and after the swap.
 
 
@@ -71,7 +71,7 @@ const PI = "3.14159";
 
 // Then, attempt to reassign a new value to PI. 
 
-PI = "5";
+//PI = "5";
 
 // Observe the error in the console and write a comment here explaining why you can't reassign a constant.
 
