@@ -49,6 +49,6 @@ console.log(A)
 const pi = 3.41159
 
 // Then, attempt to reassign a new value to PI. 
-
+pi=33
 // Observe the error in the console and write a comment here explaining why you can't reassign a constant.
- 
+//   you cannot reassign a constant variable because, as the name suggests, a constant's value is intended to remain constant in side your code. this is done to prevent accidental or unintended changes to important values in your code.
