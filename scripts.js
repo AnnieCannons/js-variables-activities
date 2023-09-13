@@ -47,9 +47,9 @@ age = 26;
 // Log the variables' values to the console.
 
 console.log("Logging information");
-console.log("firstName");
-console.log("lastName");
-console.log("age");
+console.log(firstName);
+console.log(lastName);
+console.log(age);
 
 
 
