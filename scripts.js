@@ -8,7 +8,7 @@ let Employes;
 let AgeGroup;
 let Bundels;
 let locations;
-let status = "poused";
+let status = "posed";
 let spent = 50;
 let costConversation = 12.54;
 
@@ -55,8 +55,9 @@ console.log('a + b + c');
 /************************ Exercise 4 - Working with Constants ************************/
 
 // Declare a constant variable named PI and set its value to 3.14159. 
-const PI = 3.14159
+const pI = 3.14159
 // Then, attempt to reassign a new value to PI. 
-Let PI = 4.14159
-const = 4.141559.
+let PI = 4.14159
+const pI = 4.141559
 // Observe the error in the console and write a comment here explaining why you can't reassign a constant.
+ 
