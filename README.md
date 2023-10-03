@@ -11,6 +11,7 @@
 ```javascript
 let userAge;
 const daysOfTheWeek;
+var hoursOfTheDay;
 ```
 
 ##### Assigning A Variable
@@ -59,6 +60,12 @@ const daysInWeek = 7;
 
 1. Look at the figma_design file in the assets folder of this repo.
 2. List all of the possible variables that exist on the page, and declare them as variables.
+
+
+let userName = 'A';
+A = Lavender
+
+
 
 ##### Exercise 2
 
