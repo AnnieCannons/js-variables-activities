@@ -6,6 +6,9 @@
 
 let userAge=23;
 const daysOfTheWeek = "";
+let total_sales = 1500
+let total_expense =500
+let total_profit =1000 
 
 
 
